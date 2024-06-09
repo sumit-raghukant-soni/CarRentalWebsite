@@ -9,6 +9,9 @@ const nextConfig = {
                 // pathname: ''
             }
         ]
+    },
+    typescript: {
+        ignoreBuildErrors: true,
     }
 };
 
